@@ -1,6 +1,6 @@
 <h1 align="center">Star Wars Opening Crawl</h1>
 
-The "Star Wars Opening Crawl" GitHub project is a reproduction in HTML / CSS of the opening crawl introductions from the Star Wars films. It allows users to view and appreciate these famous opening sequences directly in their web browser.
+The "Star Wars Opening Crawl" GitHub project is a reproduction in HTML & CSS of the opening crawl introductions from the Star Wars films. It allows users to view and appreciate these famous opening sequences directly in their web browser.
 
 <p align="center">
   <img src="https://github.com/Corentin-Lcs/star-wars-opening-crawl/blob/main/Star_Wars.jpg" alt="Star_Wars.jpg"/>
